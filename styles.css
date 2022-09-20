@@ -1,0 +1,49 @@
+* {
+    background-color: rgb(249, 235, 214);
+    font-family: Garamond, Tahoma, sans-serif;
+    
+}
+
+h1 {
+    color: rgb(246, 240, 43);
+    background-color: orange;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+h2, h3 {
+    color: rgb(26, 171, 91);
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
+
+ul {
+    font-size: 25px;
+    list-style-position: inside;
+}
+
+ol {
+    font-size: 25px;
+}
+
+.friedrice {
+    font-family: "Lucida Console", Geneva, Tahoma, sans-serif;
+}
